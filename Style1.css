@@ -1,0 +1,40 @@
+*{
+    margin: 0;  
+    padding: 0;
+
+}
+body{
+    background: url("https://i.etsystatic.com/25309175/r/il/f523ac/3744306389/il_1588xN.3744306389_tuyi.jpg");
+    background-size: 20%;
+}
+div.main{
+width: 500px;
+margin: 150px auto 0px auto;
+}
+h1{
+    text-align: center;
+    padding: 20px;
+    font-family: Algerian;
+    font-size: 20;
+    color:lightblue;
+}
+div.login{
+    background-color: rgba(0.5,0.5,0.5,0.5);
+    width: 100%;
+    font-family: algerian;
+    font-size: 18px;
+    border-radius: 80px ;
+    border: 1px rgb(143, 153, 156);
+    box-shadow: 2px 2px 15px rgb(171, 163, 180);
+    color:wheat ;
+    text-align: center;
+}
+label{
+    font-size: 20px;
+}
+input#placeholder{
+    font-size: 4px;
+    border:1px white;
+    border-radius:1px;
+    
+}
